@@ -144,6 +144,7 @@ CORS_ALLOWED_ORIGINS = [
 
 ]
 
+
 CSRF_TRUSTED_ORIGINS = [
     'https://8000-chrissutton-williamgeor-ahq8uk8tv2g.ws-eu114.gitpod.io',
 
