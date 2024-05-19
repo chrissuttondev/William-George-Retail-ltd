@@ -1,3 +1,3 @@
 import os
 
-os.environ.setdefault('SECRET_KEY', 'fRU5lJi+tl9e6oPhLN7p')
+os.environ.setdefault('SECRET_KEY', '&OchoPRi7anO$edR=TeC')
